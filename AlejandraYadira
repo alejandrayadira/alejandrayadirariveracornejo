@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name ="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mi Página personal</title>
+<meta name="descripcition" content="Página personal de Alejandra Yadira Rivera Cornejo, estudiante de ING.Idustrial en la Universidad Catolica San Pablo. Cursos realizados enlaces a  compañeros de grupo.">
+<meta name="keywords" content="Alejandra Yadira Rivera Cornejo, ING.Industrial, Universidad Catolica San Pablo, Cursos realizados, compañeros de grupo">
+<meta name="author" content="Alejandra Yadira Rivera Cornejo">
+</head>
+<body>
+<h1>Alejandra Yadira Rivera Cornejo</h1>
+<p>Bienvenido a mi pagina personal.</p>
+
+<h2>Datos Generales</h2>
+<ul>
+ <li>Nombre: Alejandra Yadira Rivera Cornejo</li>
+ <li>Pais: Perú</li>
+ <li>Semestre: Segundo</li>
+</ul>
+<h2>Carrera</h2>
+<p>Actualmente estoy cursando la carrera de ING.Industrial en la Universidad Catolica San Pablo.</p>
+
+<h2>Cursos realizados</h2>
+<ul>
+ <li>Curso 1: Dibujo Tecnico</li>
+ <li>Curso 2: Metodologia del Estudio</li>
+ <li>Curso 3: Comunicacion</li>
+ <li>Curso 4: Introducción a la vida universitaria</li>
+ <li>Curso 5: Introducción a la Filosofía</li>
+ <li>Curso 6: Introducción a la Ciencia de la Computación</li>
+</ul>
+
+<h2> Compañeros de Grupo</h2>
+<ul>
+ <li><a href="https://aalejandraa-carpio.neocities.org/">Alejandra Noelia Carpio Caceres</a></li>
+ <li><a href="https://miranda14.neocities.org/">Miranda Aracely Llave Cuyo</a></li>
+ <li><a href="https://melanycolquehuanca.neocities.org/">Melany Shanely Colquehuanca Jaño</a></li>
+</ul>
+
+</body>
+</html>
